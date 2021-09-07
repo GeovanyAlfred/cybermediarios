@@ -1,0 +1,2 @@
+# cybermediarios
+Se trata de página web en las que se enumeran los productos comerciales relacionados con un sector determinado. Se diferencian de los directorios en que su financiación se produce a partir del cobro al vendedor de un porcentaje de los ingresos obtenidos por las ventas. A la hora de crear una tienda online hay que tener en cuenta a este tipo de intermediarios, ya que pueden hacer que nuestro pequeño negocio llegue a públicos de todo el mundo
